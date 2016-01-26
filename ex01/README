@@ -1,0 +1,11 @@
+Michael Eller's Homework 1
+    Move the mouse to rotate the object
+    Scroll in/out to zoom in/out
+    To change settings, select the appropriate dropdown
+
+INSTALL:
+    qmake ex01.pro
+    make
+
+RUN:
+    ./ex01

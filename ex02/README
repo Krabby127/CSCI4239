@@ -1,0 +1,18 @@
+ex02: NDC RGB Example
+
+Willem A. (Vlakkies) Schreuder
+CSCI4229/5229 Fall 2014
+
+Map NDC [-1,+1] to RGB [0,1]
+
+Key bindings
+  m/M        Cycle through shaders
+  c/C        Jump to corners (orthogonal only)
+  o/O        Cycle through objects
+  s/S        Toggle size between small and large
+  p/P        Toggle between orthogonal & perspective projection
+  a          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
